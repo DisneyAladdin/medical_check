@@ -1,0 +1,6 @@
+A, this is a manual for A
+B, this is a manual for B
+C, this is a manual for C
+D, this is a manual for D
+E, this is a manual for E
+F, this is a manual for F
